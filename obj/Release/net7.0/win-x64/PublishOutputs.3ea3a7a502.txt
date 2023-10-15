@@ -1,0 +1,2 @@
+H:\Repository\Repo\consoleApp\bin\Release\net7.0\win-x64\publish\consoleApp.pdb
+H:\Repository\Repo\consoleApp\bin\Release\net7.0\win-x64\publish\consoleApp.exe

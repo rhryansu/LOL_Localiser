@@ -1,0 +1,5 @@
+H:\Repository\Repo\consoleApp\bin\Debug\net7.0\publish\consoleApp.exe
+H:\Repository\Repo\consoleApp\bin\Debug\net7.0\publish\consoleApp.dll
+H:\Repository\Repo\consoleApp\bin\Debug\net7.0\publish\consoleApp.deps.json
+H:\Repository\Repo\consoleApp\bin\Debug\net7.0\publish\consoleApp.runtimeconfig.json
+H:\Repository\Repo\consoleApp\bin\Debug\net7.0\publish\consoleApp.pdb

@@ -1,0 +1,23 @@
+auto_patching_enabled_by_player: false
+dependencies:
+    Direct X 9:
+        hash: "1c29c0bcb34a3b2b28a5fcf36d5eca1b68ab72877f230c09cb21920e6180910a"
+        phase: "Succeeded"
+        version: "1.0.0"
+locale_data:
+    available_locales:
+    - "en_AU"
+    default_locale: "en_AU"
+patching_policy: "manual"
+patchline_patching_ask_policy: "ask"
+product_install_full_path: "I:\\Riot Games\\League of Legends"
+product_install_root: "I:/Riot Games"
+settings:
+    create_shortcut: false
+    create_uninstall_key: true
+    locale: "zh_CN"
+    repair_shortcuts:
+    -   icon: "C:/ProgramData/Riot Games/Metadata/league_of_legends.live/league_of_legends.live.ico"
+        path: "C:/Users/Richa/Desktop/LeagueClient.exe.lnk"
+shortcut_name: "League of Legends.lnk"
+should_repair: false
